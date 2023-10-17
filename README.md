@@ -1,8 +1,30 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React-Calculator 🧮
 
-Currently, two official plugins are available:
+This is a simple calculator web application built with React. It provides basic calculator functionality, allowing users to perform addition, subtraction, multiplication, and division operations. It also includes additional features like backspace, factorial (!), and square root (√).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+
+## Features
+
+- Basic arithmetic operations: Addition, subtraction, multiplication, and division.
+- Backspace function to correct input.
+- Factorial function to calculate the factorial of a number.
+- Square root function to calculate the square root of a number.
+- Keyboard support for convenient input.
+- Error handling to display "Error" for invalid calculations.
+
+
+
+## Deployment
+
+To deploy this project clone the repository to your local machine.
+
+```bash
+  npm install
+```
+```bash
+  npm run dev
+```
+
