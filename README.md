@@ -21,9 +21,9 @@ This is a simple calculator web application built with React. It provides basic 
 
 To deploy this project clone the repository to your local machine.
 ```bash
-git clone https://github.com/swayam-vij/React-Calculator.git
+  git clone https://github.com/swayam-vij/React-Calculator.git
 
-cd calc-app
+  cd calc-app
 ```
 ```bash
   npm install
